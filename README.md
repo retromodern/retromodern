@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 😄
 
-<!--
-**retromodern/retromodern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alexandre, 19 years old and a French computer science student at the IUT of Bordeaux 🎓.
 
-Here are some ideas to get you started:
+I create video games during my free time 🎮 !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=retromodern&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retromodern&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
